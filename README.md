@@ -9,7 +9,7 @@ No que consite este projeto:
 Faça o download deste repositorio:
 
 ```
-$ git clone git@github.com:Dan-Source/projeto_clinica.git
+$ git clone git@github.com:bielv8/projeto_clinica.git
 ```
 
 Crie um maquina virtual e instale a bibliotecas disponiveis no 
